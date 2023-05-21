@@ -3,7 +3,7 @@
     "path": "C:/Users/jaysa/Desktop/test5/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3870867731",
     "contents": "",
     "dirty": false,
     "created": 1684674033096.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,0",
-        "scrollLine": "0"
+        "cursorPosition": "31,11",
+        "scrollLine": "13"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684674042,
+    "lastKnownWriteTime": 1684674639,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684674042377,
+    "last_content_update": 1684674639324,
     "read_only": false,
     "read_only_alternatives": []
 }
